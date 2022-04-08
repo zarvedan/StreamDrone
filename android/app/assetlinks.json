@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.retiz.trocr",
+    "sha256_cert_fingerprints":
+    ["62:53:EC:8D:E4:70:06:2A:2E:5D:11:26:56:4A:71:16:9C:AE:95:24:32:53:82:50:6C:36:53:0D:1D:81:37:AA"]
+  }
+}]

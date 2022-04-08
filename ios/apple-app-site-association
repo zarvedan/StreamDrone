@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": VTS45535ZG.com.retiz.trocr",
+         "paths": [ "/dons/*", "/3dsecure/","/asso/*"]
+
+      },
+      {
+        "appID": VTS45535ZG.com.retiz.trocr.dev",
+         "paths": [ "/dons/*", "/3dsecure/","/asso/*"]
+
+      }
+    ]
+  }
+}
